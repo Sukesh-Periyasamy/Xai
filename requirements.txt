@@ -1,0 +1,3 @@
+requests>=2.31.0,<3.0
+streamlit>=1.30.0
+# Pin additional dependencies here if you add them later
